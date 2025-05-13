@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70240798207",
+    "project_id": "nursery-5ee5d",
+    "storage_bucket": "nursery-5ee5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70240798207:android:fd0d788c50d448fa7dd3ca",
+        "android_client_info": {
+          "package_name": "com.MrTech.nursery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVjM2l-qFGhK2XYS3d7NwmmezbkBKNRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
